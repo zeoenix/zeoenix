@@ -1,3 +1,5 @@
+[<img src="github repo/intro.gif" alt="👋 Hi there! I'm (Tanuj Tanuj)" title="👋 Hi there! I'm (Mr(Phoenix)"/>]
+
 <h1 align="center">Hi 👋, I'm Tanuj Purohit</h1>
 <h3 align="center">Engineering Tomorrow’s Technology Today, A passionate Computer Science Engineer from India.</h3>
 
