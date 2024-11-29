@@ -1,4 +1,4 @@
-<img src="https://github.com/zeoenix/zeoenix/blob/main/intro.gif?raw=true" alt="👋 Hi there! I'm (Tanuj Tanuj)" title="👋 Hi there! I'm (Mr(Phoenix)"/>
+<img src="https://github.com/zeoenix/zeoenix/blob/main/intro.gif?raw=true" style="width: 1200px; height: 400px;"  alt="👋 Hi there! I'm (Tanuj Tanuj)" title="👋 Hi there! I'm (Mr(Phoenix)"/>
 
 <h1 align="center">Hi 👋, I'm Tanuj Purohit</h1>
 <h3 align="center">Engineering Tomorrow’s Technology Today, A passionate Computer Science Engineer from India.</h3>
